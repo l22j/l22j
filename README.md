@@ -1,5 +1,3 @@
-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=eunju%20lee&fontSize=90" />
-
 ### Hi there 👋
 
 <!--
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=eunju%20lee&fontSize=90" />
